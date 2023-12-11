@@ -1,4 +1,4 @@
-# pypeanuts
+# pypeanuts🥜
 
 ![diagram](pypeanuts.png)
 
