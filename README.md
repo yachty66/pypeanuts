@@ -1,6 +1,6 @@
 # APIpeanuts
 
-![diagram](apipeanuts.png)
+![diagram](pypeanuts.png)
 
 ## Overview
 The APIpeanuts framework is a Python-based solution designed to enable Python package developers to easily monetize their applications. This framework integrates a pay-per-use model using FastAPI, Supabase, Stripe, and Heroku, providing a seamless experience for both package developers and their end users.
