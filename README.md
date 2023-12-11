@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Heroku for application deployment.
 
 ## Support and Contact
-For support, questions, or feedback, please open an issue in the GitHub repository or contact us at [maxhager28@gmail.com@email.com](mailto:maxhager28@gmail.com).
+For support, questions, or feedback, please open an issue in the GitHub repository or contact us at [maxhager28@gmail.com](mailto:maxhager28@gmail.com).
 
 ## Roadmap
 For future development plans and current progress, refer to the [Roadmap Document](/docs/roadmap.md).
