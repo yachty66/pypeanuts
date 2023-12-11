@@ -1,4 +1,4 @@
-# APIpeanuts
+# pypeanuts
 
 ![diagram](pypeanuts.png)
 
